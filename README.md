@@ -1,6 +1,6 @@
 <h1 align="center"> Cadastro de Clientes </h1>
 <p id="sobre" align="center">
-Projeto Java feito utilizando a framework SpringBoot. O projeto foi feito para um trabalho do meu curso de Desenvolvimento de Sistemas no SENAI-SP. O  objetivo do projeto era criar um projeto Web com o framework SpringBoot para "Cadastro de Clientes" e registrá-los num Banco de Dados Relacional MySQL.
+Projeto Java feito utilizando a framework SpringBoot. O projeto foi feito para um trabalho do meu curso de Desenvolvimento de Sistemas no SENAI-SP. O  objetivo do projeto era criar um projeto Web com o framework SpringBoot e JSP para "Cadastro de Clientes" e registrá-los num Banco de Dados Relacional MySQL.
 </p>
 
 
@@ -13,11 +13,11 @@ Projeto Java feito utilizando a framework SpringBoot. O projeto foi feito para u
  <a href="#sobre">Sobre</a> •
  <a href="#roadmap">Como usar</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#licenca">Licença</a> • 
+ <a href="https://github.com/Pedro-Teodorio/Cadastro-Cliente/blob/main/LICENSE">Licença</a> • 
  <a href="https://github.com/Pedro-Teodorio/">Autor</a>
 </p>
 
-***
+
 ***
 
 <h3 align="center" id="roadmap">Como Usar</h3>
@@ -101,7 +101,7 @@ spring.datasource.password = senhaDeUsuario
 </div>
 
 ***
-***
+
 
 <h3 align="center">Tecnologias</h3>
 
