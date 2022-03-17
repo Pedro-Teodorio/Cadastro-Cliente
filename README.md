@@ -61,7 +61,7 @@ git clone https://github.com/eliana-eml/rest-jdbc-project-nota-fiscal
 <p align="center">3) A seguir você irá abrir o arquivo CadastroCliente.sql no seu MySQL Workbench e em seguida clicar no botão de raio para que ele crie o banco de dados e as tabelas respectivamente.</p>
 
 <div align="center">
-  <img src="./assets/criacaoBanco.PNG" />
+  <img src="./assets/criacaoBanco.png" />
 </div>
 
 ***
