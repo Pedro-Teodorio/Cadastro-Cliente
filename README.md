@@ -1,6 +1,6 @@
 <h1 align="center"> Cadastro de Clientes </h1>
 <p id="sobre" align="center">
-Projeto Java feito utilizando a framework SpringBoot. O projeto foi feito para um trabalho do meu curso de Desenvolvimento de Sistemas no SENAI-SP. O  objetivo do projeto era criar um projeto Web com o framework SpringBoot para "Cadastro de Clientes" e registrá-los num Banco de Dados Relacional MySQL.
+Projeto Java feito utilizando a framework SpringBoot. O projeto foi feito para um trabalho do meu curso de Desenvolvimento de Sistemas no SENAI-SP. O  objetivo do projeto era criar um projeto Web com o framework SpringBoot e JSP para "Cadastro de Clientes" e registrá-los num Banco de Dados Relacional MySQL.
 </p>
 
 
