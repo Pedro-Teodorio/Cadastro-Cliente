@@ -101,6 +101,19 @@ spring.datasource.password = senhaDeUsuario
 </div>
 
 ***
+***
+
+<br>
+
+<p align="center">6) A seguir na pasta <strong><i>src/main/java</i></strong>, clique no arquivo de nome <strong><i>CadastroClienteApplication</i></strong>e execute-o</p>
+
+<br>
+
+<div align="center">
+  <img src="./assets/pastas.png" />
+</div>
+
+***
 
 
 <h3 align="center">Tecnologias</h3>
