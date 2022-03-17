@@ -17,7 +17,7 @@ Projeto Java feito utilizando a framework SpringBoot. O projeto foi feito para u
  <a href="https://github.com/Pedro-Teodorio/">Autor</a>
 </p>
 
-***
+
 ***
 
 <h3 align="center" id="roadmap">Como Usar</h3>
@@ -101,7 +101,7 @@ spring.datasource.password = senhaDeUsuario
 </div>
 
 ***
-***
+
 
 <h3 align="center">Tecnologias</h3>
 
