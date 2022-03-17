@@ -27,7 +27,7 @@ Projeto Java feito utilizando a framework SpringBoot. O projeto foi feito para u
 <p align="center">1) Antes de qualquer outra coisa, vamos clonar o projeto:</p>
 
 ```
-git clone https://github.com/eliana-eml/rest-jdbc-project-nota-fiscal
+git clone https://github.com/Pedro-Teodorio/Cadastro-Cliente.git
 ```
 <p align="center">Ou</p>
 
