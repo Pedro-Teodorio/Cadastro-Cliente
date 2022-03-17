@@ -13,7 +13,7 @@ Projeto Java feito utilizando a framework SpringBoot. O projeto foi feito para u
  <a href="#sobre">Sobre</a> •
  <a href="#roadmap">Como usar</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#licenca">Licença</a> • 
+ <a href="https://github.com/Pedro-Teodorio/Cadastro-Cliente/blob/main/LICENSE">Licença</a> • 
  <a href="https://github.com/Pedro-Teodorio/">Autor</a>
 </p>
 
