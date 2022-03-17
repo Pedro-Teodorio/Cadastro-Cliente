@@ -1,6 +1,6 @@
 <h1 align="center"> Cadastro de Clientes </h1>
 <p id="sobre" align="center">
-Projeto Java feito utilizando a framework Spring JDBC. O projeto foi feito para um trabalho do meu curso de Desenvolvimento de Sistemas no SENAI-SP. O  objetivo do projeto era criar um projeto Web com o framework Spring JDBC para "Cadastro de Clientes" e registrá-los num Banco de Dados Relacional MySQL.
+Projeto Java feito utilizando a framework SpringBoot. O projeto foi feito para um trabalho do meu curso de Desenvolvimento de Sistemas no SENAI-SP. O  objetivo do projeto era criar um projeto Web com o framework SpringBoot para "Cadastro de Clientes" e registrá-los num Banco de Dados Relacional MySQL.
 </p>
 
 
@@ -14,13 +14,13 @@ Projeto Java feito utilizando a framework Spring JDBC. O projeto foi feito para 
  <a href="#roadmap">Como usar</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#licenca">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="https://github.com/Pedro-Teodorio/">Autor</a>
 </p>
 
 ***
 ***
 
-<h3 align="center">Como Usar</h3>
+<h3 align="center" id="roadmap">Como Usar</h3>
 
 
 <br>
@@ -61,7 +61,7 @@ git clone https://github.com/eliana-eml/rest-jdbc-project-nota-fiscal
 <p align="center">3) A seguir você irá abrir o arquivo CadastroCliente.sql no seu MySQL Workbench e em seguida clicar no botão de raio para que ele crie o banco de dados e as tabelas respectivamente.</p>
 
 <div align="center">
-  <img src="./assets/criacaoBanco.PNG" />
+  <img src="./assets/criacaobanco.png" />
 </div>
 
 ***
