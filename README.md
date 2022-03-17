@@ -46,4 +46,5 @@ git clone https://github.com/Pedro-Teodorio/Cadastro-Cliente.git
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-20B2AA?style=for-the-badge&log
+  <img src="https://img.shields.io/badge/MySQL-20B2AA?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
