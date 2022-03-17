@@ -29,7 +29,13 @@
 git clone https://github.com/Pedro-Teodorio/Cadastro-Cliente.git
 ```
 <br>
-<p align="center">2) Depois de clonado vá na pasta do repositório e execute o script da base de dados</p>
+<p align="center">2) Execute o script da base de dados que estará na pasta banco de dados</p>
+
+<br>
+<p align="center">3)Importar na sua Ide Java como projeto Maven</p>
+
+<br>
+<p align="center">4)Execute a Classe CadastroClienteApplication</p>
 
 
 
